@@ -29,7 +29,7 @@
 
 ## Быстрый запуск в Colab
 
-1. Откройте `speech_toolkit_lid_tts_loudness_colab.ipynb` в Google Colab.
+1. [Откройте](https://colab.research.google.com/drive/199P9a8IWF1Ff7IMTPt0HwjYlpva-r63f?usp=sharing) `speech_toolkit_lid_tts_loudness_colab.ipynb` в Google Colab.
 2. Запустите ячейку установки зависимостей.
 3. Перезапустите Runtime (если Colab попросит).
 4. В ячейке `CONFIG` выберите режим данных:
